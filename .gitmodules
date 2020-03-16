@@ -1,3 +1,12 @@
 backend
 frontend
 mobile
+[submodule "backend"]
+	path = backend
+	url = https://github.com/plowzzer/fastfeet_backend
+[submodule "fastfeet_frontend"]
+	path = frontend
+	url = https://github.com/plowzzer/fastfeet_frontend
+[submodule "fastfeet_mobile"]
+	path = mobile
+	url = https://github.com/plowzzer/fastfeet_mobile
