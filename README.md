@@ -18,3 +18,32 @@ Nessa aplicação vamos passar pelo Backend, Frontend e Mobile (cada um especifi
 Por conta de cada parte da aplicação estar em repositorios diferentes, faça o clone usando o recurse submodules abaixo:
 
 `git clone --recurse-submodules https://github.com/plowzzer/Fastfeet.git`
+
+### Stack utilizada nesse app:
+
+- Node.js
+- React
+- React-native
+
+Backend:
+
+- Express
+- PostgressSQL
+- Docker
+- Redis
+- Bee-Queue
+
+Frontend
+
+- Reactseat unform
+- Date-fnx
+- Redux
+- Styled Components
+
+Mobile (Ambientes iOS e Android funcionando)
+
+- Reactseat unform
+- Date-fnx
+- Redux
+- Styled Components
+- RNCamera
